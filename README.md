@@ -2,7 +2,7 @@
 
 version 0.3 - June 2026
 
-Author: [Souleymane Diallo]
+Author: **Souleymane Diallo**
 
 # Overview
 

@@ -1,6 +1,6 @@
 # edge-vision-model
 
-version 0.5 - June 2026
+version 0.3 - June 2026
 
 Author:[Souleymane Diallo]
 
@@ -52,6 +52,8 @@ The primary objectives are:
 
 # Dataset
 
+The image dataset and flow alignments can be obtained at the [ Hugging Face repository ](https://huggingface.co/datasets/suuley/edge-vision-model)
+
 The current dataset contains:
 
 - 1260 images
@@ -59,4 +61,71 @@ The current dataset contains:
 - Validation substets
 
 ![dataset](images/dataset.jpg)
+
+# System architecture 
+
+- Image Acquisition
+- Dataset Preparation
+- Data augmentation
+- CNN training
+- Validation
+- Model Quantization
+- TensorFlow Lite Micro
+- Microcontrolller deployment
+- Real-Time Inference
+
+# Technologies
+
+## Machine Learning
+
+- Python
+- TensorFlow
+- Keras
+- NumPy
+- Matplotlib
+
+## Embedded Systems
+
+- TensorFlow Lite Micro
+- C/C++
+
+## Development Tools
+
+- Git
+- GitHub
+- Jupyter Notebook
+
+---
+
+# Roadmap
+
+## Version 0.4
+
+- Complete data processing
+- Train baseline CNN model
+- Generate first performance benchmarks
+
+## Version 0.5
+
+- Hyperparameter optimization
+- Data augmentation experiments
+- Model compression
+
+## Version 0.8
+
+- TensorFlow Lite conversion
+- Quantization-aware optimization
+
+## Version 1.0
+
+- Deployment on microcontroller
+- Real-time validation
+- Final benchmark report
+
+---
+
+# License
+
+This project is released for educational and research purposes
+
 

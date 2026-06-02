@@ -37,7 +37,15 @@ The primary objectives are:
 
 #Current Status
 
-| Problem Definition | Dataset Collection | Dataset Cleaning | Dataset Annotation | Data Augmentation | CNN Training | Model Optimization | Quantization | Embedded Deployment | Real-Time Testing |
-|--------------------|--------------------|------------------|--------------------|--------------------|---------------|--------------------|--------------|----------------------|--------------------|
-| Completed          | Completed          | Completed        | Completed          | In Progress        | In Progress   | Planned            | Planned      | Planned              | Planned            |
-
+| Task                 | Status        |
+|----------------------|---------------|
+| Problem Definition   | Completed     |
+| Dataset Collection   | Completed     |
+| Dataset Cleaning     | Completed     |
+| Dataset Annotation   | Completed     |
+| Data Augmentation    | In Progress   |
+| CNN Training         | In Progress   |
+| Model Optimization   | Planned       |
+| Quantization         | Planned       |
+| Embedded Deployment  | Planned       |
+| Real-Time Testing    | Planned       |

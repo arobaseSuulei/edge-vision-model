@@ -2,7 +2,7 @@
 
 version 0.3 - June 2026
 
-Author:[ Souleymane Diallo ]
+Author: [Souleymane Diallo]
 
 # Overview
 
@@ -76,7 +76,7 @@ The current dataset contains:
 
 # Technologies
 
-** Machine Learning **
+**Machine Learning**
 
 - Python
 - TensorFlow
@@ -84,12 +84,12 @@ The current dataset contains:
 - NumPy
 - Matplotlib
 
-** Embedded Systems **
+**Embedded Systems**
 
 - TensorFlow Lite Micro
 - C/C++
 
-** Development Tools **
+**Development Tools**
 
 - Git
 - GitHub

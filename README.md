@@ -35,7 +35,7 @@ The primary objectives are:
 
 ---
 
-#Current Status
+# Current Status
 
 | Task                 | Status        |
 |----------------------|---------------|
@@ -49,3 +49,14 @@ The primary objectives are:
 | Quantization         | Planned       |
 | Embedded Deployment  | Planned       |
 | Real-Time Testing    | Planned       |
+
+# Dataset
+
+The current dataset contains:
+
+- 1260 images
+- Multiple data aquisition process
+- Validation substets
+
+![dataset](images/dataset.jpg)
+

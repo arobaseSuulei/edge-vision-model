@@ -6,6 +6,8 @@ Author: **Souleymane**
 
 # Overview
 
+[![dataset](images/SCR-20260604-bkzq.jpeg)]
+
 edge-vision-model is an ongoing computer vision project focused on the development and deployment of a Convolutional Neural Network (CNN) on a resource-constrained microcontroller.
 
 The objective is to designed an end-to-end embedded vision pipeline capable of performing image classification in real time while respecting memory, computation and power constraints imposed by embedded hardware.

@@ -6,7 +6,7 @@ Author: **Souleymane**
 
 # Overview
 
-[![dataset](images/SCR-20260604-bkzq.jpeg)]
+![overview](images/SCR-20260604-bkzq.jpeg)
 
 edge-vision-model is an ongoing computer vision project focused on the development and deployment of a Convolutional Neural Network (CNN) on a resource-constrained microcontroller.
 

@@ -1,4 +1,4 @@
-# edge-vision-model
+# Ledge-vision-model
 
 version 0.3 - June 2026
 
